@@ -1,2 +1,2 @@
 # Python-_Challenges
-Problem Solving using python
+Code challenges solved using python
